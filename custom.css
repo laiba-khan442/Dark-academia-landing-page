@@ -1,0 +1,26 @@
+.navbar-brand { 
+    color: #f3f3f3;
+}
+.navbar-brand:hover { 
+    color: #aaa5a7;
+}
+.nav-link {
+      color: #f3f3f3;
+    }
+
+.nav-link:hover{
+      color: #aaa5a7;
+    }
+.overlay-text { 
+    position: absolute;
+      margin-top: 20px;
+      top: 50%;
+      left: 50%;
+      right: 0%;
+      transform: translate(-50%, -50%);
+      color: rgb(246, 246, 246);
+      text-align: center;
+}
+.text-larger-than-h1 {
+    font-size: 89px;
+}
